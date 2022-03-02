@@ -306,3 +306,6 @@ Thumbs.db
 .cxx
 
 # End of https://www.gitignore.io/api/kotlin,android,intellij+all,androidstudio
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
